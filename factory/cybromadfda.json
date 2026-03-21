@@ -1,9 +1,0 @@
-{
-	"name": "cybromadfda",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "bce38957-d287-4fba-a783-f7efef77e9e5",
-		"tenantId": "efb51a2a-04c1-49ae-96fd-83cfed03c009"
-	}
-}
