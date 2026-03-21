@@ -1,0 +1,17 @@
+{
+	"name": "pipe2",
+	"properties": {
+		"activities": [
+			{
+				"name": "pipe2",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
